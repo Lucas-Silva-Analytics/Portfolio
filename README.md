@@ -18,7 +18,7 @@
 
 Empresas: Banco Santander, Consiglog
 
-Possuo conhecimentos técnicos em:
+💻 Possuo conhecimentos técnicos em:
 
 - SQL
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
