@@ -1,9 +1,10 @@
 # Bem-vindo(a) ao meu Portfólio de Análise de Dados
 
+![2037951-conceito-de-analise-de-dados-vetor](https://github.com/user-attachments/assets/0716f7dd-c9f5-4d1c-8405-f493400bcc9a)
 
 # Sobre
 
-Prazer! Sou o Lucas Silva.
+ Prazer! Sou o Lucas Silva.
 
 📍 Estágio em Análise de Dados.
 
