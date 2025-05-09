@@ -1,6 +1,8 @@
 # Bem-vindo(a) ao meu Portfólio de Análise de Dados
 
-<img src="https://github.com/user-attachments/assets/0716f7dd-c9f5-4d1c-8405-f493400bcc9a" alt="2037951-conceito-de-analise-de-dados-vetor" width="500"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0716f7dd-c9f5-4d1c-8405-f493400bcc9a" alt="2037951-conceito-de-analise-de-dados-vetor" width="200"/>
+</div>
 
 # Sobre
 
