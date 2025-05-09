@@ -38,4 +38,6 @@ Links para me chamarem
 
 ## Power BI
 ### Telco Churn (Kaggle)
-- <b>Dashboard sobre Churn</b>
+- <b>Dashboard sobre Churn de Clientes de Telecomunicações</b>
+- Churn é o nome dado para a pessoa que a empresa perdeu como cliente
+- Dados foram obtidos no [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
