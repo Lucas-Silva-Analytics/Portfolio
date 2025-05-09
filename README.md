@@ -42,3 +42,4 @@ Links para me chamarem
    Gastos Mensais, Tempo de Permanência e Churn por Gênero e Parceria
 - Churn é o nome dado para a pessoa que a empresa perdeu como cliente
 - Dados foram obtidos no [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- Além disso, alguns gráficos foram construídos utilizando Python junto da biblioteca (Pandas, NumPy, Matplotlib, Seaborn)
