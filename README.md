@@ -34,7 +34,7 @@ Links para me chamarem
 - [LinkedIn](https://www.linkedin.com/in/lucassilvad)
 - [Email](lucas-lucas14@outlook.com)
 
-## Projetos
+## PROJETOS
 
 ## Power BI
 ### Telco Churn (Kaggle)
