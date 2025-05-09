@@ -23,6 +23,3 @@ Possuo conhecimentos técnicos em:
 - Visualização de Dados (Power BI)
 - Excel
 - Estatística
-
-# Contato
-
