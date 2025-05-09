@@ -16,14 +16,9 @@ Empresas: Banco Santander, Consiglog
 
 Possuo conhecimentos técnicos em:
 
-✅ SQL
-
-✅ Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-✅ Git
-
-✅ Visualização de Dados (Power BI)
-
-✅ Excel
-
-✅ Estatística
+- SQL
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Git/GitHub
+- Visualização de Dados (Power BI)
+- Excel
+- Estatística
