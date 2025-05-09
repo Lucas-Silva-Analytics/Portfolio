@@ -37,3 +37,4 @@ Links para me chamarem
 # Projetos
 
 ## Power BI
+Telco Churn (Kaggle)
