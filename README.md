@@ -13,13 +13,17 @@ Prazer! Sou o Lucas Silva.
      > Mas ao longo da graduação fui notando a área de análise de dados e desde então busco a minha curva de aprendizado e desenvolvimento realizando diversas análises nessa área que despertou o meu interesse
 
 Empresas: Banco Santander, Consiglog
-<br>
-Possuo conhecimentos técnicos em:
-✅ SQL
-✅ Python (Pandas, NumPy, Matplotlib, Seaborn)
-✅ Git
-✅ Visualização de Dados (Power BI)
-✅ Excel
-✅ Estatística
 
-Sinta-se à vontade para entrar em contato comigo aqui no Linkedln!
+Possuo conhecimentos técnicos em:
+
+✅ SQL
+
+✅ Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+✅ Git
+
+✅ Visualização de Dados (Power BI)
+
+✅ Excel
+
+✅ Estatística
