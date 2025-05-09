@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/0716f7dd-c9f5-4d1c-8405-f493400bcc9a" alt="2037951-conceito-de-analise-de-dados-vetor" width="300"/>
 </div>
 
-# SOBRE
+## SOBRE
 
  Prazer! Sou o Lucas Silva.
 
@@ -27,14 +27,14 @@ Empresas: Banco Santander, Consiglog
 - Excel
 - Estatística
 
-# CONTATO
+## CONTATO
 
 Links para me chamarem
 
 - [LinkedIn](https://www.linkedin.com/in/lucassilvad)
 - [Email](lucas-lucas14@outlook.com)
 
-# Projetos
+## Projetos
 
 ## Power BI
 ### Telco Churn (Kaggle)
