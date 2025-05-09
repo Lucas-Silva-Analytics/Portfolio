@@ -29,6 +29,8 @@ Possuo conhecimentos técnicos em:
 
 # Contato
 
+Links para me chamarem
+
 - [LinkedIn](https://www.linkedin.com/in/lucassilvad)
 - [Email](lucas-lucas14@outlook.com)
 
