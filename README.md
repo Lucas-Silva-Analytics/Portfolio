@@ -26,3 +26,12 @@ Possuo conhecimentos técnicos em:
 - Visualização de Dados (Power BI)
 - Excel
 - Estatística
+
+# Contato
+
+- [LinkedIn](https://www.linkedin.com/in/lucassilvad)
+- [Email](lucas-lucas14@outlook.com)
+
+# Projetos
+
+# Power BI
