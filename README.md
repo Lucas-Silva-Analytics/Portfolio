@@ -1,5 +1,6 @@
 # Bem-vindo(a) ao meu Portfólio de Análise de Dados
 
+
 # Sobre
 
 Prazer! Sou o Lucas Silva.
@@ -22,3 +23,6 @@ Possuo conhecimentos técnicos em:
 - Visualização de Dados (Power BI)
 - Excel
 - Estatística
+
+# Contato
+
