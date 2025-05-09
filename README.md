@@ -38,3 +38,4 @@ Links para me chamarem
 
 ## Power BI
 ### Telco Churn (Kaggle)
+- <b>Dashboard sobre Churn</b>
