@@ -27,7 +27,7 @@ Empresas: Banco Santander, Consiglog
 - Excel
 - Estatística
 
-# Contato
+# CONTATO
 
 Links para me chamarem
 
