@@ -43,3 +43,4 @@ Links para me chamarem
 - Churn é o nome dado para a pessoa que a empresa perdeu como cliente
 - Dados foram obtidos no [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Gráficos foram construídos utilizando Python junto da biblioteca (Pandas, NumPy, Matplotlib, Seaborn)
+- [Acesse aqui](https://github.com/Lucas-Silva-Analytics/CaseChurn)
